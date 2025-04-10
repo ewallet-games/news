@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://ewallet-games.github.io/news/
